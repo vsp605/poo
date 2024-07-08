@@ -1,0 +1,8 @@
+name=input("enter a name:")
+age=int(input("Enter a age:"))
+gender=input("Enter a gender:")
+mob_no=int(input("Enter mobile number:"))
+print("name",name)
+print("age",age)
+print("gender",gender)
+print("mobile number is",mob_no)
